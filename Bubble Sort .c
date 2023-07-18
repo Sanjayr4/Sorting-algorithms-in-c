@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    // To Write C code here for bubble sort bubble sort
+    // To Write C code here for bubble sort 
     int n;
     scanf ("%d",&n);
     int arr[n];
